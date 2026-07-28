@@ -5,4 +5,4 @@ This was a game for a friend, but he tried to scam me because he wasn't to pay t
 Trying to make something?
 
 ## Version 1.1
-I stop that development on February
+I stopped that development on February
